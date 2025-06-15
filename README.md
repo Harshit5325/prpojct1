@@ -1,4 +1,4 @@
-# prpojct1 cafeteria order management
+# project1 cafeteria order management
 my first project
 #include <iostream>
 #include <vector>
